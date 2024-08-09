@@ -9,11 +9,11 @@ Many students struggle with choosing a career path in the rapidly evolving field
 
 ## Objective
 
-The objective of creating CareerLy is to empower students to make strategic decisions about their careers. By leveraging technology, we aim to provide personalized guidance that aligns with each student's strengths, interests, and aspirations. Ultimately, our goal is to equip students with the tools they need to succeed in their chosen fields.
+The objective of creating CareerLy is to empower students to make strategic decisions about their careers. By leveraging technology, we aim to provide personalized guidance that aligns with each student's strengths, interests, and aspirations. Ultimately, my goal is to equip students with the tools they need to succeed in their chosen fields.
 
 ## Scope
 
-CareerLy targets graduating and post-graduating students in the fields of CS . By catering to this specific demographic, we ensure that our guidance is relevant and actionable for those entering the job market or seeking career advancement opportunities.
+CareerLy targets graduating and post-graduating students in the fields of CS . By catering to this specific demographic, we ensure that my guidance is relevant and actionable for those entering the job market or seeking career advancement opportunities.
 
 ## Technology Stack
 
@@ -23,4 +23,4 @@ CareerLy targets graduating and post-graduating students in the fields of CS . B
 
 ## Conclusion
 
-CareerLy aims to democratize career guidance for students in CS and IT. By providing personalized recommendations based on individual assessments, we empower students to make informed decisions about their futures. Our web application reduces dependency on mentors and seniors, making career guidance accessible to a wider audience.
+CareerLy aims to democratize career guidance for students in CS and IT. By providing personalized recommendations based on individual assessments, we empower students to make informed decisions about their futures. my web application reduces dependency on mentors and seniors, making career guidance accessible to a wider audience.
